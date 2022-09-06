@@ -9,9 +9,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17kNuCJr24FeeAt8iphHYWQFyOEuCeT_c/view?usp=sharing](https://drive.google.com/file/d/17kNuCJr24FeeAt8iphHYWQFyOEuCeT_c/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
