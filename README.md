@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/17kNuCJr24FeeAt8iphHYWQFyOEuCeT_c/view?usp=sharing](https://drive.google.com/file/d/17kNuCJr24FeeAt8iphHYWQFyOEuCeT_c/view?usp=sharing)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinmoy09&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Mrinmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinmoy09&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
